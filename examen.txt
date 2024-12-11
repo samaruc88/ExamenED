@@ -1,1 +1,3 @@
 Anem fer el segon commit en master
+
+Anem a fer el 1r commit de la segon rama
