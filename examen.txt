@@ -1,6 +1,12 @@
 Anem fer el segon commit en master
 
+<<<<<<< HEAD
 
 
 
 Vaig a fer el tercer commit en master
+=======
+Anem a fer el 1r commit de la segon rama
+>>>>>>> xavier_rama_desarollo
+
+Ara fem el últim commit en master
